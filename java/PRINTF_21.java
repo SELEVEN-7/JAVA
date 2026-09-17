@@ -18,7 +18,7 @@ public class PRINTF_21
         System.out.printf("You are %f cm tall.\n", height); //f for double, normally output 6 decimal, but we can limit it
         System.out.printf("Employed : %b\n", isEmployed); //b for boolean
 
-        System.out.printf("%s is %d years old", name, age);
+        System.out.printf("%s is %d years old\n\n", name, age);
 
         //[flags]
 
